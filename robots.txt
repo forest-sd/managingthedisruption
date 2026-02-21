@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://managingthedisruption.pages.dev/sitemap.xml
