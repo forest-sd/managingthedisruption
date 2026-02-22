@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://managingthedisruption.pages.dev/sitemap.xml
+Sitemap: https://managingthedisruption.com/sitemap.xml
